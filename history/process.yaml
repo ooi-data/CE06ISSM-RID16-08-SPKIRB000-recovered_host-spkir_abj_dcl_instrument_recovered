@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-RID16-08-SPKIRB000-recovered_host-spkir_abj_dcl_instrument_recovered
 data_stream: CE06ISSM-RID16-08-SPKIRB000-recovered_host-spkir_abj_dcl_instrument_recovered
 end_date: '2021-09-20T16:33:16.752Z'
-last_updated: '2022-01-22T02:54:47.826858Z'
+last_updated: '2022-01-22T03:00:32.816121'
 start_date: '2014-10-07T19:50:02.388Z'
-status: pending
+status: success
